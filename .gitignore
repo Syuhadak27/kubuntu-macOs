@@ -1,0 +1,14 @@
+# Android / media scanner marker
+.nomedia
+
+# Build & cache
+*.log
+*.tmp
+.cache/
+build/
+sources/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
